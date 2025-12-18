@@ -1,4 +1,4 @@
-# Project-Web – HTML & CSS Website
+# Home-Page
 
 ## 📌 תיאור הפרויקט
 זוהי עבודת Web הכוללת דף אינטרנט שנבנה באמצעות HTML ו-CSS בלבד.  
@@ -7,9 +7,8 @@
 ---
 
 ## 🔗 קישור לאתר (GitHub Pages)
-האתר פועל דרך GitHub Pages כך שניתן לצפות בו אונליין:  
-https://lirongabay.github.io/Project--web/
-
+האתר פועל דרך GitHub Pages כך שניתן לצפות בו אונליין: [ 
+https://shanimic.github.io/Home-Page/homepage.html
 ---
 
 ## 🗂️ קבצי הפרויקט
